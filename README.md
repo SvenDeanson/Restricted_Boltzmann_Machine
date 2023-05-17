@@ -13,4 +13,4 @@ Exact angles that were used are in "exact_angles_used.csv"
 
 At the moment I will provide only relative errors but for the whole duration of training.
 
-$$ \epsilon_{r} = |\frac{\tilde{E} - E_{0})}{E_{0}}|$$
+$$ \epsilon_{r} = \left |\frac{(\tilde{E} - E_{0})}{E_{0}} \right |$$
